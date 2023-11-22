@@ -1,13 +1,10 @@
 # Yandexlyceum
 def my_superfunction():
-    print('What an awesome print!')
+    print('Hello, python!!!')
 
 
 def main():
-    print('My first git program')
-    print('And I change it every day')
-    print('Again')
-    print('UFO came and added this line')
+    print('Yandexlyceum')
     my_superfunction()
     print(1)
 
